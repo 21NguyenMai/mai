@@ -1,0 +1,18 @@
+.do{
+    background: red;
+    width: 30%;
+    height: 500px;
+}
+.vang{
+    background: yellow;
+    width: 40%;
+    height: 500px;
+}
+.xanh{
+    background: lightskyblue;
+    width: 30%;
+    height: 500px;
+}
+body{
+    display: flex;
+}
